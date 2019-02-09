@@ -4,6 +4,16 @@ char board[3][3];
 int i,j,flag;
 int winCondition();
 void game_board();
+sdasda
+sdsad
+ads
+sa
+sa
+d
+asd
+sadas
+dasd
+
 int main(){
 	int player=1,choice;
 	char mark,count='1';
